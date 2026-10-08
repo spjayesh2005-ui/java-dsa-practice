@@ -2,6 +2,19 @@
 
 My journey learning **Java, Data Structures & Algorithms**, and solving **LeetCode** problems.
 
+---
+
+## Table of Contents
+
+- [Goals](#goals)
+- [Repository Structure](#repository-structure)
+- [Progress](#progress)
+- [How to Run](#how-to-run)
+- [LeetCode](#leetcode)
+- [Author](#author)
+
+---
+
 ## Goals
 - Build strong Java fundamentals
 - Learn DSA step by step
